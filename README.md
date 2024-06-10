@@ -14,8 +14,8 @@ This project is a simple yet engaging game developed using the Pygame module in 
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pygame-adventure-game.git
-   cd pygame-adventure-game
+   git clone https://github.com/yourusername/space-indvaders.git
+   cd pygame-space-invaders
    ```
 2. **Install dependencies:**
    Ensure you have Python installed (preferably 3.7 or later). Install Pygame using pip:
